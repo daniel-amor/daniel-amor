@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daniel-amor
-- 👀 I’m interested in:cyber security
-- 🌱 I’m currently learning :cmd,python
+- 👀 I’m interested in : cyber security
+- 🌱 I’m currently learning : cmd,python
 - 💞️ I’m looking to collaborate on git
 - 📫 How to reach me 🇮🇱
 - 😄 Pronouns: ...
